@@ -7,7 +7,9 @@
 
 - 🌱 i’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 all of my projects are available at [github.com/SyedSiddiqShakir](github.com/SyedSiddiqShakir)
+- 👨‍💻 all of my projects are available at github.com/SyedSiddiqShakir
+
+- ⚙️ some of my CAD Designs are available here grabcad.com/syed.siddiq.shakir-1
 
 - 📫 how to reach me **syedsiddiqshakir@gmail.com**
 
@@ -17,9 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/SiddiqShakir21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SiddiqShakir21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/syedsiddiqshakir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdu7rahman" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdu7rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdu7rahman" height="30" width="40" /></a>\\
 <a href="https://instagram.com/abdu7rahman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdu7rahman_" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulrahmantrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulrahmantrm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
