@@ -7,9 +7,9 @@
 
 - 🌱 i’m currently learning **Python and Machine Learning**
 
-- 👨‍💻 all of my projects are available at github.com/SyedSiddiqShakir
+- 👨‍💻 all of my projects are available at [github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir)
 
-- ⚙️ some of my CAD Designs are available here grabcad.com/syed.siddiq.shakir-1
+- ⚙️ some of my CAD Designs are available here [grabcad.com/syed.siddiq.shakir-1](https://grabcad.com/syed.siddiq.shakir-1)
 
 - 📫 how to reach me **syedsiddiqshakir@gmail.com**
 
