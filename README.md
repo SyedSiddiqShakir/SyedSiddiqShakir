@@ -9,7 +9,7 @@
 
 - 👨‍💻 all of my projects are available at [github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir)
 
-- ⚙️ some of my Designs are available here [grabcad.com/syed.siddiq.shakir-1](https://grabcad.com/syed.siddiq.shakir-1)
+- ⚙️ my opensourced designs are available here [grabcad.com/syed.siddiq.shakir-1](https://grabcad.com/syed.siddiq.shakir-1)
 
 - 📫 how to reach me **syedsiddiqshakir@gmail.com**
 
