@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, i'm Syed Siddiq Shakir</h1>
-<h3 align="center">Robot Fan | Certified Solidworks Professional</h3>
+<h3 align="center">Robot Geek | Certified Solidworks Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedSiddiqShakir&label=Profile%20views&color=cc0000&style=flat" alt="SyedSiddiqShakir" /> </p>
 
