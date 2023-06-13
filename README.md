@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedSiddiqShakir" alt="SyedSiddiqShakir" /></a> </p>
 
-- 🌱 i’m currently learning **Python and Machine Learning**
+- 🌱 i’m currently learning **Python and ROS**
 
 - 👨‍💻 all of my projects are available at [github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir)
 
@@ -13,7 +13,7 @@
 
 - 📫 how to reach me **syedsiddiqshakir@gmail.com**
 
-- ⚡ fun fact **I'm a 'wannabe polyglot'**
+- ⚡ Part time gamer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
