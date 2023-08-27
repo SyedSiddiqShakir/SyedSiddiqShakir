@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedSiddiqShakir" alt="SyedSiddiqShakir" /></a> </p>
 
-- 🌱 i’m currently learning **Python and ROS**
+- 🌱 i’m currently learning **Python and ROS2**
 
 - 👨‍💻 all of my projects are available at [github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir)
 
