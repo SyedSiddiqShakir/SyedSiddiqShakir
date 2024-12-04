@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋, i'm Syed Siddiq Shakir</h1>
 <h3 align="center">Robotics & ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedSiddiqShakir&label=Profile%20views&color=cc0000&style=flat" alt="SyedSiddiqShakir" /> </p>
+[<p align="left"> <img src="https://komarev.com/ghpvc/?username=SyedSiddiqShakir&label=Profile%20views&color=cc0000&style=flat" alt="SyedSiddiqShakir" /> </p>]: #
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SyedSiddiqShakir" alt="SyedSiddiqShakir" /></a> </p>
 
