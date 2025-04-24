@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedSiddiqShakir&show_icons=true&theme=dark&locale=en&layout=compact" alt="SyedSiddiqShakir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedSiddiqShakir&show_icons=true&theme=dark&locale=en" alt="SyedSiddiqShakir" /></p>
+[<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedSiddiqShakir&show_icons=true&theme=dark&locale=en" alt="SyedSiddiqShakir" /></p>]: #
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSiddiqShakir&theme=dark" alt="SyedSiddiqShakir" /></p>
