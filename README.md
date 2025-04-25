@@ -23,8 +23,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <p align="left"> <a href="https://www.solidworks.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=256&id=62397&format=png" alt="solidworks" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmOZuTqPb6LhxyTyEUio8xxNxspa0gm-NncQ&s" alt="neo4j" width="40" height="40"/> </a> <a href="https://nodered.org" target="_blank" rel="noreferrer"> <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="node-red" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedSiddiqShakir&show_icons=true&theme=dark&locale=en&layout=compact" alt="SyedSiddiqShakir" /></p>
+[<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SyedSiddiqShakir&show_icons=true&theme=dark&locale=en&layout=compact" alt="SyedSiddiqShakir" /></p>]: #
 
 [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SyedSiddiqShakir&show_icons=true&theme=dark&locale=en" alt="SyedSiddiqShakir" /></p>]: #
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSiddiqShakir&theme=dark" alt="SyedSiddiqShakir" /></p>
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=SyedSiddiqShakir&hide=prs&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedSiddiqShakir&layout=compact&theme=chartreuse-dark&hide_border=true" /></a>
+
