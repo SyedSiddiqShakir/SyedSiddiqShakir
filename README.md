@@ -60,6 +60,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" height="40"/> 
   </a>
     </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="ROS" width="40" height="40"/> 
+  </a>
   <a href="https://www.ros.org/" target="_blank"> 
     <img src="https://miro.medium.com/v2/resize:fit:1024/0*WirAlt8hw1rC3ITU.png" alt="ROS" width="138" height="40"/> 
   </a>
