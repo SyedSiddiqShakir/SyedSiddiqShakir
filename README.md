@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Siddiq Shakir</h1>
-<h3 align="center">Robotics Enthusiast | IoT Developer</h3>
+<h3 align="center">Robotics Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SyedSiddiqShakir&label=Profile%20views&color=cc0000&style=flat" alt="Profile views"/>
