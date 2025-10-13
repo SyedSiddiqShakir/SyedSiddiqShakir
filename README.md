@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently working with **ROS2**
+- 🌱 Currently working with **Transformers**
 - 👨‍💻 All of my projects are here: [github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir)
 - 🛠 My CAD designs: [grabcad.com/syed.siddiq.shakir-1](https://grabcad.com/syed.siddiq.shakir-1)
 - 📫 Reach me at: **syedsiddiqshakir@gmail.com**
