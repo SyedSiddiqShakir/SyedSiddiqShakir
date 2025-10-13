@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🌱 Currently working with **Transformers**
-- 👨‍💻 All of my projects are here: [github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir)
+- 👨‍💻 All of my projects are here: [https://github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir?tab=repositories)
 - 🛠 My CAD designs: [grabcad.com/syed.siddiq.shakir-1](https://grabcad.com/syed.siddiq.shakir-1)
 - 📫 Reach me at: **syedsiddiqshakir@gmail.com**
 - 🎮 Part-time gamer
