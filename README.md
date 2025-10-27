@@ -10,10 +10,10 @@
 ### 🚀 My Featured Projects
 
 <p align="center">
-  <a href="https://github.com/SyedSiddiqShakir/REPO_NAME_1" target="_blank">
+  <a href="https://github.com/SyedSiddiqShakir/chess_foehn" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=chess_foehn&theme=great-gatsby" />
   </a>
-  <a href="https://github.com/SyedSiddiqShakir/REPO_NAME_2" target="_blank">
+  <a href="https://github.com/SyedSiddiqShakir/Autonomous_RockyBorg" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=Autonomous_RockyBorg&theme=great-gatsby" />
   </a>
 </p>
