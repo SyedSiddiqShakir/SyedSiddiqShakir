@@ -1,25 +1,33 @@
 <h1 align="center">Hi 👋, I'm Syed Siddiq Shakir</h1>
-<h3 align="center">Robotics Enthusiast</h3>
+<h3 align="center">Intelligent Systems Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SyedSiddiqShakir&label=Profile%20views&color=cc0000&style=flat" alt="Profile views"/>
 </p>
 
+---
+
+### 🚀 My Featured Projects
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SyedSiddiqShakir&theme=darkhub&margin-w=10" alt="Trophies"/>
+  <a href="https://github.com/SyedSiddiqShakir/REPO_NAME_1" target="_blank">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=chess_foehn&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/SyedSiddiqShakir/REPO_NAME_2" target="_blank">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=Autonomous_RockyBorg&theme=great-gatsby" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧐 About Me
 
-- 🌱 Currently working with **Transformers**
-- 👨‍💻 All of my projects are here: [https://github.com/SyedSiddiqShakir](https://github.com/SyedSiddiqShakir?tab=repositories)
-- 🛠 My CAD designs: [grabcad.com/syed.siddiq.shakir-1](https://grabcad.com/syed.siddiq.shakir-1)
-- 📫 Reach me at: **syedsiddiqshakir@gmail.com**
-- 🎮 Part-time gamer
+- 🔭 I’m currently diving deep into **Transformers** and their applications.
+- 🤖 I love combining software (ML/AI) with hardware (Robotics/CAD).
+- 👨‍💻 All of my projects are available on my [GitHub](https://github.com/SyedSiddiqShakir?tab=repositories).
+- 🛠 Check out my 3D models and CAD designs on [GrabCAD](https://grabcad.com/syed.siddiq.shakir-1).
+- 📫 How to reach me: **syedsiddiqshakir@gmail.com**
+- 🎮 Fun Fact: Part-time gamer!
 
 ---
 
@@ -28,6 +36,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/syedsiddiqshakir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://grabcad.com/syed.siddiq.shakir-1" target="_blank">
+    <img src="https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/07375ce62b9062da08818e6742e14792/large.png" alt="GrabCAD" width="30" height="30"/>
   </a>
 </p>
 
@@ -56,10 +67,10 @@
   </a>
   <a href="https://nodered.org" target="_blank">
     <img src="https://nodered.org/about/resources/media/node-red-icon-2.png" alt="Node-RED" width="40" height="40"/>
+  </a>
   <a href="https://www.raspberrypi.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" width="40" height="40"/> 
   </a>
-    </a>
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="ROS" width="40" height="40"/> 
   </a>
