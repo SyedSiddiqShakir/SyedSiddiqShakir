@@ -16,6 +16,12 @@
   <a href="https://github.com/SyedSiddiqShakir/Autonomous_RockyBorg" target="_blank">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=Autonomous_RockyBorg&theme=great-gatsby" />
   </a>
+  <a href="https://github.com/SyedSiddiqShakir/nonogram_foehn" target="_blank">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=nonogram_foehn&theme=great-gatsby" />
+  </a>
+  <a href="https://github.com/SyedSiddiqShakir/smart-door-lock" target="_blank">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=smart-door-lock&theme=great-gatsby" />
+  </a>
 </p>
 
 ---
