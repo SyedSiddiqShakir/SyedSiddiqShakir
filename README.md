@@ -3,31 +3,28 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SyedSiddiqShakir&label=Profile%20views&color=cc0000&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=flat-square" alt="Open Source Contributor" />
+  <img src="https://img.shields.io/badge/Contributions-Active-2ea44f?style=flat-square" alt="Contributions Active" />
+
+  </a>
 </p>
 
 ---
 
 ### 🚀 My Featured Projects
 
-<p align="center">
-  <a href="https://github.com/SyedSiddiqShakir/chess_foehn" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=chess_foehn&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/SyedSiddiqShakir/Autonomous_RockyBorg" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=Autonomous_RockyBorg&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/SyedSiddiqShakir/nonogram_foehn" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=nonogram_foehn&theme=great-gatsby" />
-  </a>
-  <a href="https://github.com/SyedSiddiqShakir/smart-door-lock" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SyedSiddiqShakir&repo=smart-door-lock&theme=great-gatsby" />
-  </a>
-</p>
+| Project | Description |
+| :--- | :--- |
+| ♟️ **[chess_foehn](https://github.com/SyedSiddiqShakir/chess_foehn)** | Chess Transformer |
+| 🤖 **[Autonomous_RockyBorg](https://github.com/SyedSiddiqShakir/Autonomous_RockyBorg)** | Autonomous robot based on visual Servoing |
+| 🧩 **[nonogram_foehn](https://github.com/SyedSiddiqShakir/nonogram_foehn)** | Algorithmic puzzle game solver |
+| 🔐 **[smart-door-lock](https://github.com/SyedSiddiqShakir/smart-door-lock)** |  Security Door lock with Facial Recognition |
 
 ---
 
 ### 🧐 About Me
 
+- 💼 I currently work at **Miltenyi Biotec**.
 - 🔭 I’m currently diving deep into **Transformers** and their applications.
 - 🤖 I love combining software (ML/AI) with hardware (Robotics/CAD).
 - 👨‍💻 All of my projects are available on my [GitHub](https://github.com/SyedSiddiqShakir?tab=repositories).
@@ -115,18 +112,8 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SyedSiddiqShakir&theme=great-gatsby&no-frame=true" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedSiddiqShakir&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedSiddiqShakir&hide=prs&count_private=true&show_icons=true&theme=great-gatsby&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedSiddiqShakir&layout=compact&theme=great-gatsby&hide_border=true" />
-</p>
-
-
